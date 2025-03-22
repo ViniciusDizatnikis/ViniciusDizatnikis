@@ -34,10 +34,10 @@ I'm Vinicius Dizatnikis, Full-stack developer from Paraná, Brazil.
 
 ## 🌎 Onde me encontrar
 
-- [Website](https://www.viniciusdizatnikis.com)  
-- [LinkedIn](https://www.linkedin.com/in/viniciusdizatnikis)  
+- [Website]()  
+- [LinkedIn](https://www.linkedin.com/in/viniciusdizatnikis/)  
 - [GitHub](https://github.com/ViniciusDizatnikis)  
-- [E-mail](mailto:vinicius@example.com)
+- [E-mail](mailto:vdizatnikis@gmail.com)
 
 ---
 
