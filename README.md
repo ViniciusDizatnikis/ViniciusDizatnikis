@@ -10,8 +10,7 @@ I'm Vinicius Dizatnikis, Full-stack developer from Paraná, Brazil.
 - **Frontend**:
   <div style="display: inline_block">
     <img align="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">     
+    <img align="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">    
     <img align="center" height="30" width="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
