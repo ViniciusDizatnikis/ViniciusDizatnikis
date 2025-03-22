@@ -1,30 +1,42 @@
 # 👨‍💻 Vinicius Dizatnikis | Portfólio
 
-Olá! Eu sou **Vinicius Dizatnikis**, um **Desenvolvedor Full Stack** e estudante de **Ciência da Computação** com **17 anos** de idade. Tenho experiência em tecnologias como **HTML**, **CSS**, **React**, **Node.js**, **Java** e **bancos de dados**, além de ser capaz de criar e consumir **APIs**. Estou sempre buscando aprimorar meus conhecimentos e explorar novas ferramentas e abordagens para desenvolver soluções inovadoras.
+Hey there!  
+I'm Vinicius Dizatnikis, Full-stack developer from Paraná, Brazil.
 
 ---
 
 ## 🧑‍💻 Habilidades
 
-- **Frontend**:  
-  ![HTML5](https://img.shields.io/badge/-HTML5-5d5d5d?style=flat&logo=html5)  
-  ![CSS3](https://img.shields.io/badge/-CSS3-5d5d5d?style=flat&logo=css3)  
-  ![React](https://img.shields.io/badge/-React-5d5d5d?style=flat&logo=react)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-5d5d5d?style=flat&logo=javascript)  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-5d5d5d?style=flat&logo=typescript)  
+- **Frontend**:
+  <div style="display: inline_block">
+    <img align="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img align="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">    
+    <img align="center" height="30" width="40" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+    <img align="center" height="30" width="40" alt="graphql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">    
+    <img align="center" height="30" width="40" alt="storybook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg">    
+    <img align="center" height="30" width="40" alt="materialui" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+    <img align="center" height="30" width="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    <img align="center" height="30" width="40" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+    <img align="center" height="30" width="40" alt="wordpress" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg">
+    <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  </div>
 
 - **Backend**:  
-  ![Node.js](https://img.shields.io/badge/-Node.js-5d5d5d?style=flat&logo=node.js)  
-  ![Java](https://img.shields.io/badge/-Java-5d5d5d?style=flat&logo=java)  
+  <img align="center" height="30" width="40" alt="Node.js" src="https://img.shields.io/badge/-Node.js-5d5d5d?style=flat&logo=node.js">
+  <img align="center" height="30" width="40" alt="Java" src="https://img.shields.io/badge/-Java-5d5d5d?style=flat&logo=java">
 
 - **Banco de Dados**:  
-  ![MySQL](https://img.shields.io/badge/-MySQL-5d5d5d?style=flat&logo=mysql)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-5d5d5d?style=flat&logo=mongodb)
+  <img align="center" height="30" width="40" alt="MySQL" src="https://img.shields.io/badge/-MySQL-5d5d5d?style=flat&logo=mysql">
+  <img align="center" height="30" width="40" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-5d5d5d?style=flat&logo=mongodb">
 
 - **Ferramentas e Outras Tecnologias**:  
-  ![Git](https://img.shields.io/badge/-Git-5d5d5d?style=flat&logo=git)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-5d5d5d?style=flat&logo=github)  
-  ![API](https://img.shields.io/badge/-API-5d5d5d?style=flat&logo=api)  
+  <img align="center" height="30" width="40" alt="Git" src="https://img.shields.io/badge/-Git-5d5d5d?style=flat&logo=git">
+  <img align="center" height="30" width="40" alt="GitHub" src="https://img.shields.io/badge/-GitHub-5d5d5d?style=flat&logo=github">
+  <img align="center" height="30" width="40" alt="API" src="https://img.shields.io/badge/-API-5d5d5d?style=flat&logo=api">
 
 ---
 
