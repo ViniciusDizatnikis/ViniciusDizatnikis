@@ -26,17 +26,17 @@ I'm Vinicius Dizatnikis, Full-stack developer from Paraná, Brazil.
   </div>
 
 - **Backend**:  
-  <img align="center" height="30" width="40" alt="Node.js" src="https://img.shields.io/badge/-Node.js-5d5d5d?style=flat&logo=node.js">
-  <img align="center" height="30" width="40" alt="Java" src="https://img.shields.io/badge/-Java-5d5d5d?style=flat&logo=java">
+  <img align="center" height="30" width="auto" alt="Node.js" src="https://img.shields.io/badge/-Node.js-5d5d5d?style=flat&logo=node.js">
+  <img align="center" height="30" width="auto" alt="Java" src="https://img.shields.io/badge/-Java-5d5d5d?style=flat&logo=java">
 
 - **Banco de Dados**:  
-  <img align="center" height="30" width="40" alt="MySQL" src="https://img.shields.io/badge/-MySQL-5d5d5d?style=flat&logo=mysql">
-  <img align="center" height="30" width="40" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-5d5d5d?style=flat&logo=mongodb">
+  <img align="center" height="30" width="auto" alt="MySQL" src="https://img.shields.io/badge/-MySQL-5d5d5d?style=flat&logo=mysql">
+  <img align="center" height="30" width="auto" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-5d5d5d?style=flat&logo=mongodb">
 
 - **Ferramentas e Outras Tecnologias**:  
-  <img align="center" height="30" width="40" alt="Git" src="https://img.shields.io/badge/-Git-5d5d5d?style=flat&logo=git">
-  <img align="center" height="30" width="40" alt="GitHub" src="https://img.shields.io/badge/-GitHub-5d5d5d?style=flat&logo=github">
-  <img align="center" height="30" width="40" alt="API" src="https://img.shields.io/badge/-API-5d5d5d?style=flat&logo=api">
+  <img align="center" height="30" width="auto" alt="Git" src="https://img.shields.io/badge/-Git-5d5d5d?style=flat&logo=git">
+  <img align="center" height="30" width="auto" alt="GitHub" src="https://img.shields.io/badge/-GitHub-5d5d5d?style=flat&logo=github">
+  <img align="center" height="30" width="auto" alt="API" src="https://img.shields.io/badge/-API-5d5d5d?style=flat&logo=api">
 
 ---
 
