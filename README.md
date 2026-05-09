@@ -7,6 +7,11 @@ Desenvolvo aplicações web modernas, interfaces interativas e projetos focados 
 
 Atualmente estou estudando e aprimorando minhas habilidades em **Frontend**, **Backend**, **JavaScript**, **React**, **Java** e desenvolvimento de aplicações web completas.
 
+<p align="left">
+  <a href="https://viniciusdizatnikis.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/%20Meu%20Portfólio-0C5F58?style=for-the-badge&logoColor=white">
+  </a>
+</p>
 
 ---
 
