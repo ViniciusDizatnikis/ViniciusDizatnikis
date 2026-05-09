@@ -28,17 +28,14 @@ Atualmente estou estudando e aprimorando minhas habilidades em **Frontend**, **B
 
 ### DevOps & Tools
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ViniciusDizatnikis&show_icons=true&theme=tokyonight&count_private=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDizatnikis&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniciusDizatnikis&theme=tokyonight" />
 </p>
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=ViniciusDizatnikis&theme=tokyonight&no-frame=true&margin-w=10)
