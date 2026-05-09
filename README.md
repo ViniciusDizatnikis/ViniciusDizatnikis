@@ -1,46 +1,44 @@
-# 👨‍💻 Vinicius Dizatnikis | Portfólio
+# 👋 Olá, me chamo Vinicius Dizatnikis
 
-Hey there!  
-I'm Vinicius Dizatnikis, Full-stack developer from Paraná, Brazil.
+🚀 **Desenvolvedor Full-Stack Júnior | Estudando para me tornar Web Developer Full-Stack**  
+🇧🇷 Paraná, Brasil  
 
----
+Desenvolvo aplicações web modernas, interfaces interativas e projetos focados em criatividade, desempenho e experiência do usuário.  
 
-## 🧑‍💻 Habilidades
+Atualmente estou estudando e aprimorando minhas habilidades em **Frontend**, **Backend**, **JavaScript**, **React**, **Java** e desenvolvimento de aplicações web completas.
 
-- **Frontend**:
-  <div style="display: inline_block">
-    <img align="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">    
-    <img align="center" height="30" width="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-
-- **Backend**:  
-  <img align="center" height="30" width="auto" alt="Node.js" src="https://img.shields.io/badge/-Node.js-5d5d5d?style=flat&logo=node.js">
-  <img align="center" height="30" width="auto" alt="Java" src="https://img.shields.io/badge/-Java-5d5d5d?style=flat&logo=java">
-
-- **Banco de Dados**:  
-  <img align="center" height="30" width="auto" alt="MySQL" src="https://img.shields.io/badge/-MySQL-5d5d5d?style=flat&logo=mysql">
-  <img align="center" height="30" width="auto" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-5d5d5d?style=flat&logo=mongodb">
-
-- **Ferramentas e Outras Tecnologias**:  
-  <img align="center" height="30" width="auto" alt="Git" src="https://img.shields.io/badge/-Git-5d5d5d?style=flat&logo=git">
-  <img align="center" height="30" width="auto" alt="GitHub" src="https://img.shields.io/badge/-GitHub-5d5d5d?style=flat&logo=github">
-  <img align="center" height="30" width="auto" alt="API" src="https://img.shields.io/badge/-API-5d5d5d?style=flat&logo=api">
 
 ---
 
-## 🌎 Onde me encontrar
+## 🛠️ Tech Stack
 
-- [Website](https://viniciusportifolio.vercel.app)  
-- [LinkedIn](https://www.linkedin.com/in/viniciusdizatnikis/)  
-- [GitHub](https://github.com/ViniciusDizatnikis)  
-- [E-mail](mailto:vdizatnikis@gmail.com)
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+### DevOps & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=viniciusdizatnikis&show_icons=true&hide_title=true&hide=prs&theme=radical)
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
 
-![Wakatime](https://wakatime.com/badge/user/7c8afd8e-6490-43bb-b980-a081626d34af.svg)
+
