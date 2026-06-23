@@ -42,5 +42,3 @@ Atualmente estou estudando e aprimorando minhas habilidades em **Frontend**, **B
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniciusDizatnikis&theme=tokyonight" />
 </p>
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=ViniciusDizatnikis&theme=tokyonight&no-frame=true&margin-w=10)
